@@ -1,3 +1,16 @@
+---
+layout: essay
+type: essay
+title: "How Do WOD's Help or Hurt Learning JavaScript?"
+# All dates must be YYYY-MM-DD format!
+date: 2023-08-29
+published: true
+labels:
+  - JavaScript
+  - Athletic Software Engineering
+  - WOD's
+---
+
 Seth Ines
 
 
