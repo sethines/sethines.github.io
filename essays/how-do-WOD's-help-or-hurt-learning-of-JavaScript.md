@@ -1,7 +1,7 @@
 Seth Ines
 August 29, 2023
 ICS 314
-Reflect on JavaScript 1
+
 	Learning JavaScript and athletic software engineering through WODs to me is extremely different from the other forms of learning things. The concepts, even though were familiar to me, challenged me because of the setup. Up 
 until now, the main ways of learning have been through lectures, homework, reading, and watching. Having something that is timed as well as graded on accuracy before getting used to the concept is a steep challenge. Because of
 the way that WOD’s are structured, they are much more stressful since there is no let me think about a problem type of option. It is either you know the answer, or you don’t type of mentality which at times can be very 
