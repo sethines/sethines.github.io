@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Championships/basketball2 (2).png
+image: img/graphic_Design/beach3.png
 title: "Beauty in all We See"
 date: 2019
 published: true
@@ -12,7 +12,8 @@ labels:
 summary: "Photography is more than just the beautiful place but also how you edit as well as when it is taken."
 ---
 <p align="center">
-<img class="img-fluid" src="../img/Championships/basketball1.png">
+  <img class="img-fluid" src="../img/graphic_Design/beach.png">
+  <img class="img-fluid" src="../img/graphic_Design/beach1.png">
 </p>
 
 For this school project, I was given the choice of taking pictures anywhere in the state to enter a contest against all the participants in the school. The main captivating thoughts were to highlight the beauty of Hawaii. The only requirement for the portfolio was to have 3 main highlight pictures. Because of the flexibility in the requirements I chose to do pictures at the beach. 
