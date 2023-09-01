@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Championships/basketball2.png
+image: img/Championships/basketball2 (2).png
 title: "Road to Championships"
 date: 2020
 published: true
