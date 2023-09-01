@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/graphic_Design/beach3.png
+image: img/graphic_Design/beach3.jpg
 title: "Beauty in all We See"
 date: 2019
 published: true
