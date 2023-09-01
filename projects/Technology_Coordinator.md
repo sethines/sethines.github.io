@@ -6,8 +6,10 @@ title: "School Diagnostics"
 date: 2023
 published: true
 labels:
-  - Lisp
-  - GitHub
+  - Networking
+  - Google
+  - Education
+  - Testing
 summary: "Getting an Elementary School Ready for Diagnostics"
 ---
 
