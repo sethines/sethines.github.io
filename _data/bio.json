@@ -57,13 +57,13 @@
   "volunteer": [
     {
       "organization": "Ka'elepulu Elementary School",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
+      "website": "",
+      "position": "IT Technician",
       "startDate": "2017",
       "endDate": "2019",
-      "summary": "IT Technician",
+      "summary": "Helping teachers set up their classrooms",
       "highlights": [
-        "Helped set up the teacher classrooms"
+        "Putting together computers and setting them up for classroom use"
       ]
     },
   ],
