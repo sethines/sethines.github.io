@@ -1,13 +1,14 @@
+---
 layout: project
 type: project
 image: img/cotton/cotton-square.png
-title: "Cotton"
-date: 2014
+title: "Networking"
+date: 2023
 published: true
 labels:
   - Lisp
   - GitHub
-summary: "A text adventure game that I developed for ICS 313."
+summary: "Maintaining and overwatching all technology devices at a school"
 ---
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
