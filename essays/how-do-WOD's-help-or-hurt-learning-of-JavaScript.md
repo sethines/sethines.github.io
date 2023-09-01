@@ -9,6 +9,7 @@ labels:
   - JavaScript
   - Athletic Software Engineering
   - WOD's
+  - Reflection
 summary: "WOD's are difficult but a good way of learning JavaScript. As with everything it has its good and bad."
 ---
 	  
