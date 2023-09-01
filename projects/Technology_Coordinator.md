@@ -12,9 +12,10 @@ labels:
   - Testing
 summary: "Getting an Elementary School Ready for Diagnostics"
 ---
-
+<p align="center">
 <img class="img-fluid" src="../img/Technology_Coordinator/iREADY.png">
 <img class="img-fluid" src="../img/Technology_Coordinator/Chrome.png">
+</p>
 
 During the Summer of 2023, I was tasked with getting all technology ready for the upcoming fiscal 2023-2024 school year at an elementary school. This workload included normal procedures like making sure the Chromebooks were kept up to date with the testing standards and the WiFi was strong enough to support the extra students coming to the school. Along with those responsibilities, there were other mini-projects like ensuring that iREADY was working for both people who were using a QR code to sign in as well as passwords.
 
