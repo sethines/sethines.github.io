@@ -12,7 +12,7 @@ labels:
 summary: "It took 4 years of dedicated practice to finally make it to the high school basketball championships."
 ---
 <p align="center">
-<img class="img-fluid" src="../img/Technology_Coordinator/iREADY.png">
+<img class="img-fluid" src="../img/Technology_Coordinator/20140105_052921820_iOS.png">
 <img class="img-fluid" src="../img/Technology_Coordinator/Chrome.png">
 </p>
 
