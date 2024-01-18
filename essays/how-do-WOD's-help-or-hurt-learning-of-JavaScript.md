@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "How Do WOD's Help or Hurt Learning JavaScript?"
 # All dates must be YYYY-MM-DD format!
-date: 2023-08-29
+date: 2024-1-17
 published: true
 labels:
   - JavaScript
