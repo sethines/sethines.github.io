@@ -4,7 +4,7 @@ type: essay
 title: "Embracing Coding Standards"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-20
-published: True
+published: false
 labels:
   - Coding Standards
   - Reflection on Coding Standards
