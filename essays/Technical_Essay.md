@@ -4,7 +4,7 @@ type: essay
 title: "Path to Learning Never Ends"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-31
-published: True
+published: false
 labels:
   - Technical Essay
   - Interests
