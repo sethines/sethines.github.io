@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Getting Help Online"
 # All dates must be YYYY-MM-DD format!
-date: 2023-09-05
+date: 2024-01-25
 published: true
 labels:
   - Smart Questions
