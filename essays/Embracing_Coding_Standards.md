@@ -3,8 +3,8 @@ layout: essay
 type: essay
 title: "Embracing Coding Standards"
 # All dates must be YYYY-MM-DD format!
-date: 2023-09-20
-published: false
+date: 2024-02-08
+published: true
 labels:
   - Coding Standards
   - Reflection on Coding Standards
@@ -14,24 +14,24 @@ labels:
 
 ## Introduction
 
-When it comes to coding standards, they're often seen as those little things like how many spaces to use for indentation or where to place a closing curly brace. However, I'm convinced that if there's one thing that can really make a difference in software development, it's following coding standards. In fact, I've found that some of these standards can be an amazing way to learn a programming language.
+While coding standards may seem like minor details such as indentation and brace placement, I firmly believe they hold the key to significant improvements in software development. In fact, adhering to coding standards has proven to be an invaluable learning tool for me.
 
-## Learning the Ropes with Standards
+## Navigating the Learning Curve
 
-Following coding standards has been a real eye-opener for me as a student. It's like having a guide that helps me write code that's clear, easy to read, and simple to maintain. As I look back on my journey, I see that sticking to these standards has sped up my learning process for different programming languages. It pushes me to really understand the ins and outs of a language, as I aim to fit into the established conventions.
+As a student, embracing coding standards has provided me with a guiding framework, enabling me to write code that is not only clear and readable but also easy to maintain. Reflecting on my journey, I've observed how sticking to these standards has accelerated my learning across various programming languages. It's forced me to delve deeper into language intricacies, striving to align with established conventions.
 
-## ESLint with IntelliJ
+## Unleashing the Power of ESLint with IntelliJ
 
-After just a week of using ESLint with IntelliJ, I can honestly say it's been a total game-changer. Seeing that green checkmark has been both a challenge and incredibly helpful. It's this instant feedback that checks if my code aligns with the set standards. It's a challenge because it demands a level of precision and attention to detail that can be a bit intimidating. But, honestly, that challenge is priceless. It makes me really go over my code and fix any parts that don't meet the standards.
+In just a week of utilizing ESLint with IntelliJ, I've experienced a paradigm shift. The sight of that reassuring green checkmark has become both a challenge and a boon. This instant feedback mechanism ensures that my code meets the prescribed standards, albeit demanding precision and attention to detail. Yet, it's a challenge that propels me to meticulously review and refine my code.
 
-## More Than Just a Checkmark
+## Beyond Validation: Fostering Collaboration
 
-That green checkmark means so much more than just saying, "Hey, your code is okay." It's a promise to create code that's not just functional, but also easy for other developers to understand. It encourages teamwork, where everyone can work on and get what each other's code is all about, making our work faster and more efficient.
+That green checkmark signifies more than mere validation; it embodies a commitment to crafting code that is not only functional but also comprehensible to fellow developers. It fosters a culture of collaboration, wherein understanding and working with each other's code becomes seamless, enhancing productivity and efficiency.
 
-## Improving Code Quality
+## Elevating Code Quality
 
-Following coding standards has a big impact on how well our software turns out. It lowers the chances of bugs, makes the code easier to keep up, and helps us find and fix problems quickly. It also makes sure our code follows the same rules across different projects, and it encourages us to use the best methods. By sticking to these guidelines, our code becomes more predictable and clear, which makes the whole development process smoother and leads to higher-quality results.
+Adhering to coding standards significantly impacts the quality of our software. It reduces the likelihood of bugs, enhances code maintainability, and expedites issue resolution. Moreover, it ensures consistency across projects and encourages the adoption of best practices. By adhering to these guidelines, our code becomes more predictable and coherent, streamlining the development process and yielding superior outcomes.
 
 ## Conclusion
 
-To sum it up, coding standards are way more important than they might seem at first. They're like the foundation of making great, easy-to-maintain code. From where I stand as a student, following these standards has not only improved my code but has also sped up my learning in different programming languages. Using tools like ESLint with IntelliJ has taken the benefits of coding standards to a whole new level, giving us instant feedback and validation. That green checkmark is a badge of honor, showing our dedication to creating top-notch software. It's proof of how crucial coding standards are in our quest to make outstanding programs.
+In summary, coding standards are foundational to the creation of exceptional, easily maintainable code. As a student, I've witnessed firsthand how they not only enhance code quality but also expedite language acquisition. Leveraging tools like ESLint with IntelliJ elevates the benefits of coding standards by providing instantaneous feedback and validation. That coveted green checkmark symbolizes our unwavering commitment to crafting exemplary software. It underscores the indispensable role of coding standards in our relentless pursuit of excellence.
