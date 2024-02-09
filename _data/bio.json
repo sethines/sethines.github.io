@@ -1,0 +1,83 @@
+{
+  "basics": {
+    "name": "Seth Ines",
+    "label": "Student",
+    "picture": "https://github.com/sethines.png",
+    "email": "3chikara3@gmail.com",
+    "phone": "808-497-2484",
+    "website": "https://sethines.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025. I also work as an IT Support Technician at Ka'elepulu Elementary School.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "sethines", "url": "http://github.com/sethines" },
+      { "network": "linkedin", "username": "seth-ines", "url": "http://linkedin.com/in/seth-ines-943718289" }
+    ]
+  },
+  "interests": [
+    { "name": "Software Engineering" },
+    { "name": "Data Science" },
+    { "name": "Quantum Computing" },
+    { "name": "Robotics" },
+    { "name": "Cybersecurity" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Git/GitHub", "Windows" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2025)",
+      "studyType": "B.S.",
+      "startDate": "2021-08-23",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Department of Education",
+      "position": "IT Support Technician",
+      "website": "",
+      "startDate": "2023-05-22",
+      "endDate": "Present",
+      "summary": "Fixes IT problems at Ka'elepulu Elementary School",
+      "highlights": [
+        "Maintain, update, and oversee Chromebooks, MacBooks, computers, networks"
+      ]
+    },
+  ],
+  "volunteer": [
+    {
+      "organization": "Ka'elepulu Elementary School",
+      "website": "",
+      "position": "IT Technician",
+      "startDate": "2017",
+      "endDate": "2019",
+      "summary": "Helping teachers set up their classrooms",
+      "highlights": [
+        "Putting together computers and setting them up for classroom use"
+      ]
+    },
+  ],
+  "awards": [
+    {
+      "title": "Manoa Academic Scholarship",
+      "date": "2021-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.8 at a high school."
+    },
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
