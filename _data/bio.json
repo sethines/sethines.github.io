@@ -32,13 +32,18 @@
   ],
   "education": [
     {
+      "institution": "Trinity Christian School, Kailua, HI",
+      "area": "General Education",
+      "studyType": "High School Deploma",
+      "startDate": "2016",
+      "endDate": "2021"
+    }
+    {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2026)",
       "studyType": "B.S.",
       "startDate": "2021-09-01",
-      "endDate": "Present",
-      "courses": [
-      ]
+      "endDate": "Present"
     }
   ],
   "work": [
@@ -56,7 +61,7 @@
     }
   ],
   "volunteer": [
-    {
+    /*{
       "organization": "Hawaii State Department of Education",
       "website": "",
       "position": "IT Technician",
@@ -66,7 +71,7 @@
       "highlights": [
         "Understanding the technological infrastructure that supports the use of technology in classrooms and schools"
       ]
-    }
+    }*/
   ],
   "awards": [
     {
