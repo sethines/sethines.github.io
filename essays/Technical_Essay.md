@@ -6,10 +6,9 @@ title: "Unlocking the Power of Data and Security: My Journey in Software Enginee
 date: 2016-02-06
 published: true
 labels:
-  - Technical Essay
-  - Interests
-  - Skills
-  - Experiences
+  - Date Engineering
+  - Security Engineering
+  - IT Support
 ---
 
 ## The Ever-Evolving World of Software Engineering: A Constant Journey of Learning
@@ -32,7 +31,7 @@ Security engineering is more than just preventing breaches; it's about understan
 Much like data engineering, security is deeply tied to the real world. In an age where data breaches can lead to stolen identities and cripple businesses, the stakes couldn’t be higher. It's this high-impact, high-reward dynamic that draws me to the field. Protecting people's digital lives is not just about safeguarding data; it's about building trust in the technology we all rely on every day.
 
 ## Building the Skills to Make a Difference
-Currently, I work as an IT Support Technician at Ka'elepulu Elementary School, which has given me some experience with both the front and back ends of technology, though I'm eager to dive deeper. I aim to sharpen my skills in big data technologies, cloud platforms, and data warehousing—key tools that will set the foundation for my growth in data engineering. These technologies will help me gain the expertise needed to turn raw information into actionable insights.
+Currently, I work as an Technology Coordinator at Ka'elepulu Elementary School, which has given me some experience with both the front and back ends of technology, though I'm eager to dive deeper. I aim to sharpen my skills in big data technologies, cloud platforms, and data warehousing—key tools that will set the foundation for my growth in data engineering. These technologies will help me gain the expertise needed to turn raw information into actionable insights.
 
 On the security front, I want to explore threat modeling and scripting, two areas that are crucial for understanding and preventing cyberattacks. Developing proficiency in these areas will help me achieve one of my long-term goals: to have full control over the creation, storage, and protection of my personal data. It's a dream of mine to one day design systems that people can use to safeguard their information, protecting their privacy and security in an increasingly digital world.
 
