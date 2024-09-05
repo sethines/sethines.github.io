@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Championships/basketball2 (2).png
+image: img/Championship/basketball2 (2).png
 title: "Road to Championships"
 date: 2020
 published: true
@@ -12,7 +12,7 @@ labels:
 summary: "It took 4 years of dedicated practice to finally make it to the high school basketball championships."
 ---
 <p align="center">
-<img class="img-fluid" src="../img/Championships/basketball1.png">
+<img class="img-fluid" src="../img/Championship/basketball1.png">
 </p>
 
 The road to the championship game was a hard one and everyone knew it. It was required of us to be at the top school in the league. It is important to note that this team has never been beaten by my school in the history of the league and that this team was the reigning champions for the past 3 years. The team knew we had to train every day and put in the work both on the court and off the court to topple the reigning champions. Each of us was expected to put in hours during the summer getting shooting reps and keeping in condition. In addition to the normal ones, we also were weight training to strengthen our jumping power for rebounding. Over the course of the year, we eventually became much more polished and gelled as a team. This eventually led to us getting to championships and bringing home the first basketball championship in the school's history.
