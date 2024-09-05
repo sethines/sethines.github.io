@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Unlocking the Power of Data and Security: My Journey in Software Engineering"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2024-08-30
 published: true
 labels:
   - Date Engineering
