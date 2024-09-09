@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: img/Event_Management/Camp_Erdman_Bungalows.jpg
 title: "Transformative Leadership and Event Coordination at Camp Erdman"
 date: 2019
 published: true
