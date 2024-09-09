@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/School_Diagnostics/iREADY.png
-title: "School Diagnostics"
+title: "Technology Infrastructure Overhaul for 2023-2024 School Year"
 date: 2024
 published: true
 labels:
@@ -10,15 +10,28 @@ labels:
   - Google
   - Education
   - Testing
-summary: "Getting an Elementary School Ready for Diagnostics"
+summary: "Managed Chromebooks, WiFi, and software updates for seamless school year launch"
 ---
 <p align="center">
 <img class="img-fluid" src="../img/School_Diagnostics/iREADY.png">
 <img class="img-fluid" src="../img/School_Diagnostics/Chrome.png">
 </p>
 
-During the Summer of 2023, I was tasked with getting all technology ready for the upcoming fiscal 2023-2024 school year at an elementary school. This workload included normal procedures like making sure the Chromebooks were kept up to date with the testing standards and the WiFi was strong enough to support the extra students coming to the school. Along with those responsibilities, there were other mini-projects like ensuring that iREADY was working for both people who were using a QR code to sign in as well as passwords.
+During the Summer of 2023, I took charge of preparing the technology for the upcoming school year at Ka'elepulu Elementary School as the sole Technology Coordinator. I was responsible for a comprehensive range of tasks to ensure everything was fully operational by the first day of school.
 
-Since I am the only Technology Coordinator at the school, I was responsible for the entire workload. Over the course of a few weeks, all of the workload was systematically done. With the Chromebooks, all the organizational units needed to be updated to the most recent OS version through Google Administration. Once the OS was operational, each of the Chromebooks was set to their specific organizational units and tested to determine if the students would be able to take the test on them. Since the younger students would have a harder time typing in their passwords, I also needed to make sure that the Chromebooks sent to those classrooms were able to sign into iREADY using the QR code instead of the default username and password. 
+## Chromebook Configuration and Deployment
+My first major task was updating the Chromebooks with the latest OS versions. Using Google Admin, I streamlined the OS updates across all devices and organized them into specific units to meet the testing standards. This meticulous configuration ensured that each Chromebook was appropriately set up for various classroom needs.
 
-Because of all the responsibilities that were given to me, I learned how to have good time management and to get things all done before the deadline of the first day of school. This project also challenged me since up until that point most of my dealing with computers was through Windows OS. I needed to adapt to how the Chrome OS reacts. Another learning experience through this project was learning how to effectively troubleshoot. When the network was not connecting to Chromebooks. I needed to start from the base which was determining if other Chromebooks could connect. When I determined this to be true, next was to start looking into the settings on the Chromebooks. Sometimes it was a faulty pass-through of the password and other times was because the Chromebook itself needed a power wash to eliminate the issue. 
+## WiFi Network Optimization and Troubleshooting
+As the number of students increased, I focused on optimizing the WiFi network to handle the higher demand. When connectivity issues emerged, I systematically investigated by testing other Chromebooks to pinpoint the problem. I then adjusted settings and performed device resets as needed, ensuring robust and reliable network performance.
+
+## Software Integration and User Access Management
+Part of the setup involved configuring iREADY to accommodate different login methods. For younger students, I enabled QR code access to simplify their login process, while also ensuring older students could securely use their passwords. This approach required careful integration to support diverse user needs efficiently.
+
+## Time Management and Project Planning
+Balancing these responsibilities required effective time management and strategic planning. I developed a detailed schedule to complete each task on time, prioritizing critical updates and troubleshooting to ensure a smooth launch.
+
+## Adaptation to Chrome OS and Technical Troubleshooting
+Transitioning to Chrome OS presented new challenges. I quickly adapted to its unique features and troubleshooting methods, which involved performing resets or troubleshooting specific issues to maintain optimal device performance.
+
+By carefully managing each aspect of the technology setup—from hardware updates and network optimization to software integration and user access—I ensured that all systems were ready for the academic year. This holistic approach to technology management provided a solid foundation for a successful start to the school year.
