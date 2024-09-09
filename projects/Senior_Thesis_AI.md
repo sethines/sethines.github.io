@@ -34,6 +34,11 @@ I explored the potential for AI to improve national security by minimizing human
 ## Leveraging AI’s Success in Other Fields
 To build a broader understanding of AI’s potential in defense, I reviewed its current applications in consumer technologies and commercial sectors. AI systems like Siri, Google Assistant, and large-scale corporate AI tools have already demonstrated their ability to process data and optimize outcomes efficiently. I analyzed how these AI systems could be adapted and scaled for defense purposes, drawing parallels between their functionality in commercial environments and potential military applications.
 
+## Oral Presentation & Refutation
+As part of the senior thesis project, I delivered an oral presentation to communicate my findings and defend my conclusions. This presentation included a detailed explanation of how AI could be integrated into military operations, the benefits of enhanced decision-making, and the potential for increased security.
+
+Additionally, I addressed criticisms and counterarguments regarding the use of AI in military defense. Key criticisms included AI's predictive limitations and its lack of emotional intelligence. I provided a thorough refutation of these points, emphasizing that AI’s ability to process data efficiently and improve over time outweighs these limitations. I argued that while AI systems have constraints, they offer substantial benefits in terms of speed, accuracy, and safety, making them valuable tools in military applications.
+
 ## Results & Impact
 The project concluded that AI has significant potential to improve the efficiency and safety of military operations. Key findings included:
 
