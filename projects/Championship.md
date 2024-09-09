@@ -4,7 +4,7 @@ type: project
 image: img/Championship/basketball2 (2).png
 title: "Road to Championships"
 date: 2020
-published: true
+published: false
 labels:
   - Leadership
   - Team Work
