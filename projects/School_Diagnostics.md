@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/School_Diagnostics/iREADY.png
 title: "Technology Infrastructure Overhaul for 2023-2024 School Year"
-date: 2024
+date: 2023
 published: true
 labels:
   - Networking
