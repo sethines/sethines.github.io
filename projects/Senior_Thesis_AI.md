@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: img/Senior_Thesis_AI/unmanned military drone.jpg
 title: "Artificial Intelligence in Military Defense: Enhancing Security and Decision-Making"
 date: 2020 - 2021
 published: true
