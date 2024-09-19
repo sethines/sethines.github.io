@@ -27,14 +27,14 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "Windows OS" ]
+      "keywords": [ "MacOS", "Git/GitHub", "Windows OS" ]
     }
   ],
   "education": [
     {
       "institution": "Trinity Christian School, Kailua, HI",
       "area": "General Education",
-      "studyType": "High School Deploma",
+      "studyType": "High School Diploma",
       "startDate": "2016",
       "endDate": "2021"
     },
