@@ -12,7 +12,7 @@ labels:
 ---
 
 
- ##  Introduction
+## Introduction
 
 Artificial Intelligence (AI) has revolutionized various fields, including education, by providing dynamic tools for learning and skill development. In software engineering, AI tools such as ChatGPT, Bard, and GitHub Copilot offer real-time assistance for coding, debugging, and understanding complex concepts. In ICS 314, these tools have played a role in my learning process, helping me navigate assignments, tutorials, and projects. My experiences have ranged from leveraging ChatGPT for understanding functional programming to exploring Copilot for generating code snippets. This essay reflects on my journey using AI in ICS 314, evaluating its impact on my learning and application of software engineering principles.
 
