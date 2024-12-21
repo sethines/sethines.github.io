@@ -10,7 +10,7 @@ labels:
   - Event Planning
   - Team Building
   - Community Engagement
-summary: "Organize and led a camp, growth and teamwork"
+summary: "Organized and led a camp, growth and teamwork."
 ---
 
 ## Project Overview
