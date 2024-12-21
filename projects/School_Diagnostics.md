@@ -10,7 +10,7 @@ labels:
   - Google
   - Education
   - Testing
-summary: "Managed Chromebooks, WiFi, and software updates for seamless school year launch"
+summary: "Managed Chromebooks, WiFi, and software updates for seamless school year launch."
 ---
 <p align="center">
 <img class="img-fluid" src="../img/School_Diagnostics/iREADY.png">
