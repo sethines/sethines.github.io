@@ -11,7 +11,7 @@ labels:
   - Ethical Considersations
   - Technology Integration
   - Decision-Making
-summary: "Exploring AI's role in improving military decision-making and security"
+summary: "Explored AI's role in enhancing military decision-making and strengthening security."
 ---
 
 ## Overview
