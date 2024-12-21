@@ -19,7 +19,7 @@ summary: "A food website created during ICS 314."
 # Your better Search for Food Around Campus
 Hawaii Bites was born out of a shared vision to simplify the often overwhelming process of finding food on campus. As students ourselves, we experienced the frustration of not knowing what was available, where to find it, or even whether our favorite meals were being served. This project aimed to address those challenges by creating a centralized platform that connects the University of Hawaii at Manoa community with campus dining options. By combining a clean, intuitive user interface with robust backend support, Hawaii Bites not only makes it easier for users to discover meals but also empowers vendors to update menus effortlessly. Whether you’re a student in a hurry, a vendor looking to engage more customers, or an admin managing the system, Hawaii Bites ensures that everyone benefits from a streamlined, accessible, and personalized dining experience.
 
-Currently still under construction but a sample of the current application can be found [here](https://hawaii-bites.vercel.app/login)
+Currently still under construction but a sample of the current application can be found [here](https://hawaii-bites.vercel.app/login).
 
 Use credentials test@hawaii.edu for the username and TestPassword123 for password.
 
@@ -39,4 +39,4 @@ Full-Stack Development and User-Centric Design: Building Hawaii Bites underscore
 </div>
 
 ## GitHub Organization Page
-To learn more about the source code and view the github repsoitory associated with the source code, visit the [Hawaii Bites GitHub Organization Page](https://hawaii-bites.github.io/)
+To learn more about the source code and view the github repsoitory associated with the source code, visit the [Hawaii Bites GitHub Organization Page](https://hawaii-bites.github.io/).
