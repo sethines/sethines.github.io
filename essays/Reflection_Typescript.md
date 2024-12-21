@@ -4,7 +4,7 @@ type: essay
 title: "Mastering JavaScript and TypeScript Through Workout of the Day Challenges: A Modern Approach to Coding Education"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-02
-published: true
+published: false
 labels:
   - TypeScript
   - JavaScript
