@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/hawaii_bites/chicken_wings.png
+image: img/hawaii_bites/plate2.png
 title: "Hawaii Bites"
 date: 2024
 published: true
