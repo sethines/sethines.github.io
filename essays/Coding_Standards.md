@@ -4,7 +4,7 @@ type: essay
 title: "Coding Standards: The Key to Cleaner Code and Continuous Learning"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-26
-published: true
+published: false
 labels:
   - ESLint
   - Coding Standards
