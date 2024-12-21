@@ -4,7 +4,7 @@ type: essay
 title: "The Strategic Advantage of UI Frameworks: Efficiency, Consistency, and Scalability with Bootstrap 5"
 # All dates must be YYYY-MM-DD format!
 date: 2024-10-10
-published: true
+published: false
 labels:
   - UI Frameworks
   - Bootstrap 5
