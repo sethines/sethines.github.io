@@ -13,7 +13,7 @@ labels:
   - Bootstrap 5/React
   - Vercel
   - Javascript
-summary: "A food website created during ICS 314."
+summary: "A dynamic web application designed to streamline campus dining."
 ---
 
 # Your better Search for Food Around Campus
