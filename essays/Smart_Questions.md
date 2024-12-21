@@ -4,7 +4,7 @@ type: essay
 title: "The Art of Asking Smart Questions: A Guide for Software Engineers"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-07
-published: true
+published: false
 labels:
   - Smart Questioning in Software Engineering
   - Improving Query Efficiency and Clarity
